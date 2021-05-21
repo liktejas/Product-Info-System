@@ -1,5 +1,5 @@
-# Home Budget
-Calculates the different kinds of expenses in house
+# Product Information System
+Provides information of various products like smartphones, television, etc.
 
 ## Roles:
 * Admin
