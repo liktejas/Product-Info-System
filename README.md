@@ -6,7 +6,7 @@ Provides information of various products like smartphones, television, etc.
 * User
 
 ## Functionality:
-* Add various categories of products eg. smartphones, television, etc.
+* Add various categories of products e.g. smartphones, television, etc.
 * Add different types of companies of products.
 * Add products.
 * Search and View detail information about product.
